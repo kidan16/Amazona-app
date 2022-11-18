@@ -1,2 +1,2 @@
 # Amazona-app
-My first App.
+My first App
